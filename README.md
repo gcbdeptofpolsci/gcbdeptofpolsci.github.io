@@ -34,7 +34,7 @@ Home | Divyanshu Shares
 	  <font face="Lato" color ="#ffffff">
 	   <p>― Fernando Pessoa.</p>
 		  <h3 align="center"><hr>
-	  <font face="Lato" color ="#ffffff">
+	  <font face="Lato" color ="#ffffff"><hr>
 	  <p> This is a student website for various purposes such as sharing blogs, poems, drawings, books and some other creations.</p>
 	  <p> I hope you'll like the content. The aspects of the content vary but majorly cover melancholic, existential and philosophical content.
 		  These are mixed with personal thoughts and views.</p>
@@ -45,7 +45,7 @@ Home | Divyanshu Shares
 	   <h3 align="center">
 
 				   
-			 <h2> Contact Me </h2>
+			<hr> <h2> Contact Me </h2>
 			 <h3 align="center">
 				   <font face="Lato" color ="#000000">
 <a href="https://t.me/SteadyDark"><img src= "https://cdn-icons-png.flaticon.com/128/2504/2504941.png" height="50" width="50" /></a>
