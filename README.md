@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" type= "text/css" href="main.css" />
-<link rel=" icon" href="/4.ICO" type="image/x-icon"/>
+<link rel="icon" href="/4.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/4.ICO" type="image/x-icon"/>
 <meta name="description" content="A personal website made for sharing various things such as blogs, drawings books and some personal creations.
 				  Read, enjoy and get an insight on the topics." />
