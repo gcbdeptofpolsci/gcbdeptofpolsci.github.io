@@ -60,9 +60,9 @@ News And Announcements
 
 <br>
 
-<center>
+<div class="center">
 <img src="images/man.png" width="100px"  class="roundimg"> 
-</center>
+</div>
 <block1>
 <h2>Words From Head Of The Department:-</h2>
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
@@ -76,4 +76,3 @@ News And Announcements
 
 
 
-</body>
