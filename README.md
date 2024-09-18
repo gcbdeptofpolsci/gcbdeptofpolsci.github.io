@@ -27,6 +27,7 @@ Home | Department of Political Science
 <li>
 <a href="./resources"> STUDENT RESOURCES </a>
 </li>
+<li>
 <a href="./libresources"> LIBRARY AND RESOURCES </a>
 </li>
 
@@ -67,6 +68,7 @@ News And Announcements
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 </block1>
 
+<br>
 
 
 
@@ -74,5 +76,4 @@ News And Announcements
 
 
 
-
-</body
+</body>
