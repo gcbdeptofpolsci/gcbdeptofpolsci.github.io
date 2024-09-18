@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html lang="eng">
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="main.css">
@@ -12,7 +12,7 @@ Home | Department of Political Science
 
 <h1 class="family1"> Department OF Political Science </h1>
 <img src="gcbanganalogo.png" style="width:100%; height:100px; ">
-</topblock>
+
 <nav>
 <ul class="menu">
 <li>
@@ -42,10 +42,11 @@ Home | Department of Political Science
 </ul>
 </nav>
 <div class="top">
+<div>
 <div class="recent0"> <h2 style="text-align:center"> About Our Department</h2>
 <p> Department of Political Science is the most vibrant department in our college. Verastility reigns this department broadening it's scope.
 We strive for not just academic but universal development!  </p>
-<recent0>
+
 </div>
 
 <div class="recent1">
@@ -55,7 +56,7 @@ News And Announcements
 <hr>
 </div>
 </div>
-</recent1>
+
 <br>
 
 <center>
