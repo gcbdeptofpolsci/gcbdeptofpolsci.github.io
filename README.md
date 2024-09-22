@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="main.css">
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>
 Home | Department of Political Science
 </title>
@@ -12,7 +12,7 @@ Home | Department of Political Science
 <body>
 
 <h1 class="family1"> Department Of Political Science </h1>
-<img src="gcbanganalogo.jpeg" style="width:100%; height:100px; ">
+<img src="gcbanganalogo.jpeg" class="imglogo">
 
 <nav>
 <ul class="menu">
@@ -91,7 +91,7 @@ This website is managed by the <small style="font-family:cursive; font-size:17px
 </small>
 </p>
 <p>
-<small> &#169 2024 Department Of Political Science </small>
+<small> © 2024 Department Of Political Science </small>
 </p>
 </footer>
 
