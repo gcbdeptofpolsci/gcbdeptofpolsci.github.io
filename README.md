@@ -71,7 +71,7 @@ News And Announcements
 <br>
 
 
-</body>
+
 
 
 
@@ -85,7 +85,7 @@ News And Announcements
 <footer>
 <p>
 <small>
-This website is managed by the <small style="font-family:cursive; font-size:17px;"> Department of Political Science, Govt. College Bangana </style> 
+This website is managed by the <small style="font-family:cursive; font-size:17px;"> Department of Political Science, Govt. College Bangana 
 </small>
 </small>
 </p>
