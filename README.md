@@ -10,7 +10,7 @@ Home | Department of Political Science
 <topblock>
 <body>
 
-<h1 class="family1"> Department OF Political Science </h1>
+<h1 class="family1"> Department Of Political Science </h1>
 <img src="gcbanganalogo.jpeg" style="width:100%; height:100px; ">
 
 <nav>
