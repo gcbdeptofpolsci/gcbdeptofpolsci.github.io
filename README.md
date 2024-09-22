@@ -16,7 +16,7 @@ Home | Department of Political Science
 <nav>
 <ul class="menu">
 <li>
-<a href="https://pluralistdialectics.github.io/"> HOME </a>
+<a href="https://gcbdeptofpolsci.github.io/"> HOME </a>
 </li>
 <li>
 <a href="./programs"> PROGRAMS </a>
@@ -55,13 +55,13 @@ We strive for not just academic but universal development!  </p>
 News And Announcements
 </div>
 <hr>
-</div>
-</div>
 
+</div>
+</div>
 <br>
 
 <div class="center">
-<img src="images/man.png" width="100px"  class="roundimg"> 
+<img src="https://i.imgur.com/YYJVVGM.jpeg" width="100px"  class="roundimg"> 
 </div>
 <block1>
 <h2>Words From Head Of The Department:-</h2>
@@ -71,7 +71,28 @@ News And Announcements
 <br>
 
 
+</body>
 
+
+
+
+
+
+
+
+
+
+<footer>
+<p>
+<small>
+This website is managed by the <small style="font-family:cursive; font-size:17px;"> Department of Political Science, Govt. College Bangana </style> 
+</small>
+</small>
+</p>
+<p>
+<small> &#169 2024 Department Of Political Science </small>
+</p>
+</footer>
 
 
 
