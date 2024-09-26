@@ -1,4 +1,4 @@
-body{margin:auto;
+body{margin:0px;
 width:100%;
 background-color:black;
 color:white;
@@ -13,6 +13,8 @@ display:block;
 {font-family:'Brush Script MT', Cursive;
 color:#ED3434;
 font-size:45px;
+margin-top:0px;
+margin-bottom:2px;
 text-align:center;}
 
 
